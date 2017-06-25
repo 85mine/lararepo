@@ -3,6 +3,7 @@
 if (!defined('STRING_REPLACE')) define('STRING_REPLACE', '%s');
 
 if (!defined('MESSAGE_STATUS_ERROR')) define('MESSAGE_STATUS_ERROR', 'alert-danger');
+if (!defined('MESSAGE_STATUS_WARNING')) define('MESSAGE_STATUS_WARNING', 'alert-warning');
 if (!defined('MESSAGE_STATUS_SUCCESS')) define('MESSAGE_STATUS_SUCCESS', 'alert-success');
 if (!defined('CONFIRM_EMAIL_INACTIVE')) define('CONFIRM_EMAIL_INACTIVE', 0);
 if (!defined('CONFIRM_EMAIL_ACTIVE')) define('CONFIRM_EMAIL_ACTIVE', 1);
